@@ -1,0 +1,143 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<head>
+    <style>
+        .custom-width {
+            width: 45%;
+        }
+
+        .flex-container{
+            display: flex;
+            justify-content: space-around;
+            align-items: flex-start;
+            margin-top: 20px;
+        }
+        .custom-width: {
+        width:%45;
+        }
+
+        <!--.container-img {
+            width: 100%; /* Sayfa genişliğini kaplar */
+            box-sizing: border-box; /* Kenar boşlukları ve paddingler dahil olmak üzere genişliği hesaplar */
+        }
+
+        .photos-img {
+            display: flex;
+            flex-wrap: wrap; /* Resimlerin bir sıra dışına taşmasını engeller */
+        }
+
+            .photos-img img {
+                width: 33%; /* Resimlerin genişliğini %20 olarak ayarlar */
+                height: auto; /* Oranlarını korur */
+                padding:100px;
+            } -->
+
+        </style>
+</head>
+
+
+
+
+
+<div class="text-center">
+    <h1 class="display-4"><strong>Muse Kütüphanesi</strong></h1>
+    <h4 class="display-6">Muse Kütüphanesi'ne hoş geldiniz... <br />Okuma, öğrenme ve keşfetme yolculuğunuz burada başlıyor.</h4>
+</div>
+
+<br />
+<br />
+
+
+<!--<div class="container-img">
+
+
+    <div class="photos-img">
+        <img src="/img/pinkbooks.jpg" />
+        <img src="/img/kitaplik.jpg" />
+        <img src="/img/purplebooks.jpg" />
+    </div>
+</div>-->
+
+
+
+
+<div class="flex-container">
+
+
+    <div class="list custom-width">
+        <h2>Yaklaşan Etkinlikler</h2>
+        <div class="list-group">
+            <a href="#" class="list-group-item list-group-item-action flex-column align-items-start active">
+                <div class="d-flex w-100 justify-content-between">
+                    <h5 class="mb-1">Kitap Kulübü Toplantısı</h5>
+                    <small>3 days ago</small>
+                </div>
+                <p class="mb-1">
+                    Kitap kulübünün değerli üyeleri bir araya geliyor! Önemli konuların ele alınacağı bu etkinliğe tüm kitaap kulübü üyelerinin katılımı zorunludur..<br /> Tarih ve Saat: 25 Haziran, Saat 18:00
+
+                </p>
+
+            </a>
+            <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
+                <div class="d-flex w-100 justify-content-between">
+                    <h5 class="mb-1">Çocuklar İçin Hikaye Saati</h5>
+                    <small class="text-muted">3 days ago</small>
+                </div>
+                <p class="mb-1">Çocuklarımızın okuma alışkanlıklarını geliştirmek için her ay düzenli olarak yaptığımız bu etkinliğe sizleri de bekleriz.. <br /> Tarih ve Saat: 27 Haziran , Saat:14:00</p>
+
+            </a>
+        </div>
+    </div>
+
+ 
+
+<div class="accordion custom-width">
+    <h2>Duyurular</h2>
+    <div class="accordion" id="accordionExample">
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="headingOne">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                    Yeni Gelen Kitaplar Listesi Yayınlandı
+                </button>
+            </h2>
+            <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample" style="">
+                <div class="accordion-body">
+                    <strong></strong>İncelemek için kitaplar sayfasına göz atınız. İstek kitaplar için bize ulaşınız
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="headingTwo">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    Yaz Okuma Programı Kayıtları Başladı!
+                </button>
+            </h2>
+            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample" style="">
+                <div class="accordion-body">
+                    Sınırlı kontejanlı bu programımıza hepinizi bekleriz :)
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                    Kütüphane Çalışma Saatlerinde Güncelleme
+                </button>
+            </h2>
+            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample" style="">
+                <div class="accordion-body">
+                    Yeni çalışma saatleri listesi için example@gmail.com adresine mail atınız...
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+
+              
+
+</div>

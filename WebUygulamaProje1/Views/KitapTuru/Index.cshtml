@@ -1,0 +1,61 @@
+﻿@using WebUygulamaProje1.Utility
+@model List<KitapTuru>
+
+@if (TempData["basarili"] != null)
+{
+	<h2>@TempData["basarili"]</h2>
+}
+
+	<div class="container"> 
+
+		<div class="row pt-3 pb-4">
+			<div>
+				<h1>
+					Kitap Türleri
+				</h1>
+		</div>
+	</div>
+<table class="table table-bordered">
+	<thead>
+		<tr>
+			<th>Id</th> 
+			<th>Kitap Türü</th>
+				@if (User.IsInRole(UserRoles.Role_Admin)){
+
+			<th></th>
+			<th></th>
+				}
+		</tr>
+	</thead>
+	<tbody>
+		@foreach(var kitapTuru in Model)
+		{
+			<tr>
+				<td>@kitapTuru.Id</td>
+				<td>@kitapTuru.Ad</td>
+
+					@if (User.IsInRole(UserRoles.Role_Admin)){
+
+				<td>
+						<a asp-controller="KitapTuru" asp-action="Guncelle" asp-route-id="@kitapTuru.Id" type="button" class="btn btn-secondary btn-sm" style="width:150px">Güncelle</a>
+				</td>
+				<td>
+						<a asp-controller="KitapTuru" asp-action="Sil" asp-route-id="@kitapTuru.Id" type="button" class="btn btn-secondary btn-sm" style="width:150px">Sil </a>
+				</td>
+					}
+			</tr>
+		}
+
+	</tbody>
+</table>
+	@if (User.IsInRole(UserRoles.Role_Admin)){
+
+<div class="row pt-3 pb-2">
+	<div>
+		<a asp-contoller="KitapTuru" asp-action="Ekle" class="btn btn-lg btn-primary" type="button" >
+			Yeni Kitap Türü Oluştur
+		</a>
+	</div>
+</div>
+	}
+</div>

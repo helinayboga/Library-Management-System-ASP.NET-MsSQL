@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\helin\\OneDrive\\Masa\u00FCst\u00FC\\WebUygulamaProje1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF5F08A-37BD-4568-B393-6D7A613BC804}|WebUygulamaProje1.csproj|c:\\users\\helin\\onedrive\\masa\u00FCst\u00FC\\webuygulamaproje1\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECF5F08A-37BD-4568-B393-6D7A613BC804}|WebUygulamaProje1.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF5F08A-37BD-4568-B393-6D7A613BC804}|WebUygulamaProje1.csproj|c:\\users\\helin\\onedrive\\masa\u00FCst\u00FC\\webuygulamaproje1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECF5F08A-37BD-4568-B393-6D7A613BC804}|WebUygulamaProje1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF5F08A-37BD-4568-B393-6D7A613BC804}|WebUygulamaProje1.csproj|c:\\users\\helin\\onedrive\\masa\u00FCst\u00FC\\webuygulamaproje1\\views\\kitap\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECF5F08A-37BD-4568-B393-6D7A613BC804}|WebUygulamaProje1.csproj|solutionrelative:views\\kitap\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF5F08A-37BD-4568-B393-6D7A613BC804}|WebUygulamaProje1.csproj|c:\\users\\helin\\onedrive\\masa\u00FCst\u00FC\\webuygulamaproje1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECF5F08A-37BD-4568-B393-6D7A613BC804}|WebUygulamaProje1.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF5F08A-37BD-4568-B393-6D7A613BC804}|WebUygulamaProje1.csproj|c:\\users\\helin\\onedrive\\masa\u00FCst\u00FC\\webuygulamaproje1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECF5F08A-37BD-4568-B393-6D7A613BC804}|WebUygulamaProje1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\helin\\OneDrive\\Masa\u00FCst\u00FC\\WebUygulamaProje1\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\helin\\OneDrive\\Masa\u00FCst\u00FC\\WebUygulamaProje1\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T15:53:29.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\helin\\OneDrive\\Masa\u00FCst\u00FC\\WebUygulamaProje1\\Views\\Kitap\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Kitap\\Index.cshtml",
+              "ToolTip": "C:\\Users\\helin\\OneDrive\\Masa\u00FCst\u00FC\\WebUygulamaProje1\\Views\\Kitap\\Index.cshtml",
+              "RelativeToolTip": "Views\\Kitap\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T13:36:00.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\helin\\OneDrive\\Masa\u00FCst\u00FC\\WebUygulamaProje1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\helin\\OneDrive\\Masa\u00FCst\u00FC\\WebUygulamaProje1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T13:18:53.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\helin\\OneDrive\\Masa\u00FCst\u00FC\\WebUygulamaProje1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\helin\\OneDrive\\Masa\u00FCst\u00FC\\WebUygulamaProje1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T12:22:11.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\helin\\OneDrive\\Masa\u00FCst\u00FC\\WebUygulamaProje1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\helin\\OneDrive\\Masa\u00FCst\u00FC\\WebUygulamaProje1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAAAIwDEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T11:56:30.398Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
